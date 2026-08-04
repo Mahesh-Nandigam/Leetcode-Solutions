@@ -13,6 +13,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -53,4 +55,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
