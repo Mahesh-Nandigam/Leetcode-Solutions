@@ -21,6 +21,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -34,11 +35,13 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -65,4 +68,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
