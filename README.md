@@ -17,6 +17,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -79,4 +81,5 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
