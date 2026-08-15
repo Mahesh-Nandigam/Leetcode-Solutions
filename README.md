@@ -7,6 +7,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -21,6 +22,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
