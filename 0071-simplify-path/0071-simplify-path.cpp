@@ -5,7 +5,7 @@ public:
         string token;
         stack<string>st;
         while(getline(ss,token,'/')){
-            if(token=="" || token==".")
+            if(token=="" || token==".")                 //TOKENISATION
             continue;
             else if(token!="..")
             st.push(token);
