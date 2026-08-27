@@ -56,6 +56,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0400-nth-digit](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0400-nth-digit) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
+## Math
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
