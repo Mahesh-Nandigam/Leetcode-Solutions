@@ -30,6 +30,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4024-nearest-available-drone](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +87,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0394-decode-string) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
