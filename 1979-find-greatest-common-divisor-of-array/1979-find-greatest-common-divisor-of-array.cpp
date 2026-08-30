@@ -1,8 +1,12 @@
 class Solution {
 public:
  int gcd(vector<int>nums){
-    sort(nums.begin(),nums.end(),greater<int>());
-        int n=nums[0];
+        int maxe=nums[0];
+        for(int x=0;x<nums.size();x++){
+            if(nums[x]>maxe)
+                maxe=nums[x];
+        }
+        int n=maxe;
         int gcd=0;
         for(int i=1;i<=n;i++){
            bool is=true;
