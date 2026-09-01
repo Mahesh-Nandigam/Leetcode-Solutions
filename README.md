@@ -32,6 +32,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [4024-nearest-available-drone](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,4 +113,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 <!---LeetCode Topics End-->
