@@ -28,6 +28,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0031-next-permutation](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -39,6 +40,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -120,4 +122,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | ------- |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
