@@ -31,6 +31,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0053-maximum-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -42,6 +43,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
