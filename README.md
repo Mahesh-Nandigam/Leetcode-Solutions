@@ -34,6 +34,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0400-nth-digit](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Hash Table
