@@ -76,6 +76,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -97,6 +98,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Enumeration
@@ -106,6 +108,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0400-nth-digit](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4022-k-th-digit-in-infinite-string) |
