@@ -11,6 +11,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0031-next-permutation](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -35,6 +36,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -111,6 +113,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0400-nth-digit](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4022-k-th-digit-in-infinite-string) |
