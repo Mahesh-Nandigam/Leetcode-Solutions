@@ -13,6 +13,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [4026-maximum-gap-between-stations](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
@@ -37,6 +38,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0152-maximum-product-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
