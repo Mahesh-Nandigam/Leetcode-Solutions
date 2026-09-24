@@ -31,6 +31,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -77,6 +78,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -140,4 +142,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
