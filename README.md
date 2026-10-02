@@ -80,12 +80,14 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -146,4 +148,12 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
