@@ -59,6 +59,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0042-trapping-rain-water](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -165,6 +166,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -173,4 +175,9 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
