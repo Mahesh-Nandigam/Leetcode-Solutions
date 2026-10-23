@@ -40,6 +40,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -52,6 +53,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0053-maximum-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +79,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0400-nth-digit](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4022-k-th-digit-in-infinite-string) |
 ## Hash Table
 |  |
@@ -142,6 +145,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4026-maximum-gap-between-stations](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4026-maximum-gap-between-stations) |
 ## Divide and Conquer
@@ -192,4 +196,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
