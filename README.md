@@ -177,6 +177,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,4 +210,12 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
