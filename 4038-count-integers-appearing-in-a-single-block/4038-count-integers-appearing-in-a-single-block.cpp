@@ -1,18 +1,27 @@
 class Solution {
 public:
     int countSpecialIntegers(vector<int>& nums) {
-        vector<int>count(101,0);
         int n=nums.size();
-        count[nums[0]]=1;
+        map<int,int>m;
+        m[nums[0]]=1;
+
+
         for(int i=1;i<n;i++){
-            if(nums[i]!=nums[i-1])
-            count[nums[i]]++;
+        
+        if(nums[i]!=nums[i-1] && m.count(nums[i])==0)
+        m[nums[i]]=1;
+
+        else if(nums[i]!=nums[i-1] && m.count(nums[i])==1)
+        m[nums[i]]=0;
+
+
         }
-        int ct=0;
-        for(int i=1;i<=100;i++){
-            if(count[i]==1)
-            ct++;
+        int ans=0;
+        for(auto it:m){
+        if(it.second) ans++;
         }
-        return ct;
-    }
+
+        return ans;
+        }
+    
 };
