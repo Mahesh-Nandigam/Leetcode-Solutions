@@ -47,6 +47,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [4024-nearest-available-drone](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4039-sum-of-decoded-numbers](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4039-sum-of-decoded-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4039-sum-of-decoded-numbers](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4039-sum-of-decoded-numbers) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -132,6 +134,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0400-nth-digit](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [4022-k-th-digit-in-infinite-string](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4022-k-th-digit-in-infinite-string) |
+| [4039-sum-of-decoded-numbers](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4039-sum-of-decoded-numbers) |
 ## Number Theory
 |  |
 | ------- |
