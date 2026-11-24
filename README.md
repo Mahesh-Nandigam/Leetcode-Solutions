@@ -46,6 +46,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [4024-nearest-available-drone](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ This repository contains my LeetCode solutions, synchronized automatically using
 | [0141-linked-list-cycle](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Linked List
 |  |
 | ------- |
@@ -218,4 +220,8 @@ This repository contains my LeetCode solutions, synchronized automatically using
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Mahesh-Nandigam/Leetcode-Solutions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 <!---LeetCode Topics End-->
